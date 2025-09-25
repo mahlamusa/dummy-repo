@@ -32,6 +32,7 @@ function Giggle_notice()
             '🎪 Welcome to the circus! You\'re the ringmaster.',
             '🧙‍♂️ Your database queries are so optimized, they bend spacetime.',
             '🎯 You hit ctrl+s so much, even autosave is jealous.',
+            '🍕 Your code is like pizza - even when bad, still pretty good.',
         );
         $joke = $jokes[array_rand($jokes)];
         echo '<div class="notice notice-info is-dismissible">';
