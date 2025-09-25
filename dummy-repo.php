@@ -34,6 +34,8 @@ function Giggle_notice()
             '🎯 You hit ctrl+s so much, even autosave is jealous.',
             '🍕 Your code is like pizza - even when bad, still pretty good.',
             '🤖 Your functions are so efficient, even robots ask for tips.',
+            '🐛 99 bugs in the code, 99 bugs... fix one bug, 127 bugs in the code!',
+            '🔥 Your CSS is so clean, Marie Kondo wants to learn from you.',
         );
         $joke = $jokes[array_rand($jokes)];
         echo '<div class="notice notice-info is-dismissible">';
